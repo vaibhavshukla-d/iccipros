@@ -11411,7 +11411,7 @@ header.masthead {
   height: 80%; 
   
 
-
+  word-wrap: break-word;
 
   background-repeat: no-repeat;
   background-attachment: scroll;
