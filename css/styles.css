@@ -11408,8 +11408,8 @@ p {
 header.masthead {
   padding-top: 10.5rem;
   padding-bottom: 6rem;
-  height: 80%; 
-  
+  height: auto; 
+  width: 100%;
 
   word-wrap: break-word;
 
